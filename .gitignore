@@ -1,0 +1,10 @@
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+Servers/
+**/.classpath
+**/.gradle/
+**/.project
+**/.settings/
+**/.springBeans
+
